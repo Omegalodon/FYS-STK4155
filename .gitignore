@@ -1,0 +1,18 @@
+# excluding latex make files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb*
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+# *.pdf
+*.run.xml
+*.synctex*
+*.toc
+
+# excluding OS files
+.DS_Store
